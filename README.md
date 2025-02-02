@@ -10,12 +10,14 @@ Procedurally animating metahumans based on audios would enable speech therapists
 For the real time procedural generation of the facial animation on the Metahuman to play along with the audio improvements were made on top of the Oculus Lipsync module to make the animation better and more profound, control the speed and make the process realtime.
 
 
-### Real Time Conversion of Speech to Text to Assess the Response of the Patient
+### Feedback: Real Time Conversion of Speech to Text to Assess the Response of the Patient
 
 One of the main issues with aphasia is causing disconnect between what a person thinks and says. Without proper feedback the patient might feel like what they are saying is correct. To avoid this, when the patient speaks the audio is converted to text real time and compared with the expected outcome. There is an option to slow down the audio and animation to enable easy practice. Doing practice with an avatar would enable practice without fear of judgment.
 For the real time conversion of speech to text of the patients, the Runtime Speech Recognizer based on the Whisper OpenAI Technology was used. 
 
 ### Other Methods Explored
+
+The integration of Dall-E and ChatGPT to work with the visual and audio cue generator and the evaluation module seems to be a promising area to explore. The HttpGpt plugin in Unreal Engine provides a way to integrate their functionality into the application through api calls. 
 
 
 [PDF Documentation to the Dissertation](https://github.com/SharonGomez/speech-therapy/releases/tag/v1.0/Procedural_Approach_to_Speech_Therapy_for_Aphasia_Patients.pdf)
