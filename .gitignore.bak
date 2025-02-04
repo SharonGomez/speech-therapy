@@ -1,0 +1,13 @@
+Intermediate/
+Saved/
+Binaries/
+Build/
+.vs/
+DerivedDataCache/
+Saved/
+Plugins/RuntimeSpeechRecognizer/Content/ggml-base.en.bin
+Plugins/RuntimeSpeechRecognizer/Content/ggml-base.bin
+Plugins/OVRLipSync/ThirdParty/Lib/Mac/libOVRLipSync.dylib
+Content/MetaHumans/Common/Face/Face_Archetype.uasset
+Plugins/RuntimeSpeechRecognizer/Content/LanguageModel.uasset
+Content/MetaHumans/Queen/Face/Queen_FaceMesh.uasset
