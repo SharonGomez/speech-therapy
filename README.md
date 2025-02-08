@@ -16,7 +16,7 @@ One of the main issues with aphasia is the disconnect it causes between what a p
 For the real time conversion of speech to text of the patients, the Runtime Speech Recognizer based on the Whisper OpenAI Technology was used. 
 
 ### Other Methods Explored
-| <img src="https://github.com/SharonGomez/speech-therapy/blob/main/Demos/dall-e.png" width="400" height="250"/> <img src="https://github.com/SharonGomez/speech-therapy/blob/main/Demos/conversation.png" width="400" height="250"/>|
+| <img src="https://github.com/SharonGomez/speech-therapy/blob/main/Demos/dall-e.png" width="375" height="250"/> <img src="https://github.com/SharonGomez/speech-therapy/blob/main/Demos/conversation.png" width="375" height="250"/>|
 |:--:|
 | <p align="justify"> Visuographic supports in the form of images and conversational coaching using a partner are also important parts of treatment of aphasia. This is where the integration of generative AI for intelligent conversations and images along with the core modules of practicing with visual and audio cues could be explored. For this project I have explored adding them in the project at a minimal level.</p>|
 
