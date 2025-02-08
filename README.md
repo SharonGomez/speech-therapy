@@ -6,7 +6,7 @@ The role of the application is to provide a platform where those in need of spee
 
 ### Visual Cue: Real time Procedural Generation of Animation Based on Audio
 
-|  <img  src="https://github.com/SharonGomez/speech-therapy/blob/main/Demos/repetition.gif" width="772" height="475"  alt="Repetition Screen Grab"/>|
+|  <img  src="https://github.com/SharonGomez/speech-therapy/blob/main/Demos/repetition.gif"  alt="Repetition Screen Grab"/>|
 |:--:| 
 | <p align="justify">Learning how to speak involves both listening and reading lip movements. Procedurally animating metahumans based on audios would enable speech therapists to provide visual cues along with audio for the patient to practice with by simply adding in audios of materials to practice before next consultation. For the real time procedural generation of the facial animation on the Metahuman, improvements were made on top of the Oculus Lipsync module to make the animation better and more profound, control the speed and make the process realtime. </p>|
 
